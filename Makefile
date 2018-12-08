@@ -38,4 +38,4 @@ testGB_very_easy:
 	cd $(TESTGB) && python runTasks.py -j$(NPROC) -ftaskInfo_very_easy.xml
 	cd $(TESTGB) && python compareResults.py -f results/correct_very_easy -f2 results -c Singular
 
-.PHONY: autogen production debug testGB
+.PHONY: nothing autogen production debug testGB testGB_medium timeGB_medium testGB_easy testGB_very_easy
