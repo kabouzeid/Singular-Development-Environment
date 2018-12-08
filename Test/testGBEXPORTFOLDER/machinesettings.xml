@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+  <machinesettings>
+    <othervars>
+      <timecommand>gtime</timecommand>
+    </othervars>
+    <casdictionary>
+      <entry>
+        <key>Singular New Mult</key>
+        <value>/Users/karim/Code/Singular/sources/Singular/Singular</value>
+      </entry>
+      <entry>
+        <key>Singular_OLD</key>
+        <value>/Users/karim/Code/Singular/sources-stable/Singular/Singular</value>
+      </entry>
+      <entry>
+        <key>Singular</key>
+        <value>/Users/karim/Code/Singular/sources/Singular/Singular</value>
+      </entry>
+    </casdictionary>
+  </machinesettings>

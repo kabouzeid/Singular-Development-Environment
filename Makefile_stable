@@ -1,0 +1,17 @@
+SOURCES = sources-stable
+CONFIGURE_ARGS = CXXFLAGS=-std=c++11 #--with-gmp=/usr/local/opt/gmp --with-ntl=/usr/local/opt/ntl --with-flint=/usr/local/opt/flint
+
+autogen:
+	cd $(SOURCES) && ./autogen.sh
+
+production:
+	-cd $(SOURCES) && make distclean
+	cd $(SOURCES) && ./configure $(CONFIGURE_ARGS)
+	cd $(SOURCES) && make -j$(nproc)
+
+debug:
+	-cd $(SOURCES) && make distclean
+	cd $(SOURCES) && ./configure $(CONFIGURE_ARGS) --enable-debug --disable-optimizationflags --disable-shared --enable-static --without-pic --enable-p-procs-static --disable-p-procs-dynamic
+	cd $(SOURCES) && make -j$(nproc)
+
+.PHONY: autogen production debug

@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+  <task>
+    <name>testGB</name>
+    <computationproblem>FA_Q_dp</computationproblem>
+    <computeralgebrasystems>
+      <computeralgebrasystem>Singular</computeralgebrasystem>
+      <!-- <computeralgebrasystem>Singular_OLD</computeralgebrasystem> -->
+    </computeralgebrasystems>
+    <sdtables>
+      <sdtable>
+        <tablename>FreeAlgebras</tablename>
+        <probleminstances>
+          <!-- <probleminstance>2tri_4var10deg</probleminstance> -->
+          <probleminstance>2tri_4var7deg</probleminstance>
+          <!-- <probleminstance>4nilp5s-d8</probleminstance> -->
+          <probleminstance>C_4_1_7_X</probleminstance>
+          <!-- <probleminstance>braid3-11</probleminstance> -->
+          <probleminstance>braid4-11</probleminstance>
+          <!-- <probleminstance>braidX</probleminstance> -->
+          <!-- <probleminstance>braidXY</probleminstance> -->
+          <!-- <probleminstance>c_4_1_7</probleminstance> -->
+          <probleminstance>c_4_1_7_W</probleminstance>
+          <!-- <probleminstance>c_4_1_7_Y</probleminstance> -->
+          <!-- <probleminstance>c_4_1_7_Z</probleminstance> -->
+          <!-- <probleminstance>c_4_1_7a</probleminstance> -->
+          <probleminstance>exterior2</probleminstance>
+          <probleminstance>fullSerreRel1</probleminstance>
+          <probleminstance>fullSerreRel2</probleminstance>
+          <probleminstance>h1</probleminstance>
+          <probleminstance>h10</probleminstance>
+          <probleminstance>h11</probleminstance>
+          <probleminstance>h12</probleminstance>
+          <probleminstance>h13</probleminstance>
+          <probleminstance>h14</probleminstance>
+          <probleminstance>h15</probleminstance>
+          <probleminstance>h16</probleminstance>
+          <probleminstance>h17</probleminstance>
+          <probleminstance>h18</probleminstance>
+          <probleminstance>h19</probleminstance>
+          <probleminstance>h2</probleminstance>
+          <probleminstance>h20</probleminstance>
+          <probleminstance>h21</probleminstance>
+          <probleminstance>h22</probleminstance>
+          <probleminstance>h23</probleminstance>
+          <probleminstance>h24</probleminstance>
+          <probleminstance>h25</probleminstance>
+          <probleminstance>h26</probleminstance>
+          <probleminstance>h27</probleminstance>
+          <probleminstance>h28</probleminstance>
+          <probleminstance>h29</probleminstance>
+          <probleminstance>h3</probleminstance>
+          <probleminstance>h30</probleminstance>
+          <probleminstance>h31</probleminstance>
+          <probleminstance>h32</probleminstance>
+          <probleminstance>h33</probleminstance>
+          <probleminstance>h34</probleminstance>
+          <probleminstance>h35</probleminstance>
+          <probleminstance>h36</probleminstance>
+          <probleminstance>h37</probleminstance>
+          <probleminstance>h38</probleminstance>
+          <probleminstance>h39</probleminstance>
+          <probleminstance>h4</probleminstance>
+          <probleminstance>h40</probleminstance>
+          <probleminstance>h41</probleminstance>
+          <probleminstance>h42</probleminstance>
+          <probleminstance>h43</probleminstance>
+          <probleminstance>h44</probleminstance>
+          <probleminstance>h45</probleminstance>
+          <probleminstance>h46</probleminstance>
+          <probleminstance>h47</probleminstance>
+          <probleminstance>h48</probleminstance>
+          <probleminstance>h5</probleminstance>
+          <probleminstance>h6</probleminstance>
+          <probleminstance>h7</probleminstance>
+          <probleminstance>h8</probleminstance>
+          <probleminstance>h9</probleminstance>
+          <!-- >30 min -->
+          <!-- <probleminstance>holt_G23134h</probleminstance> -->
+          <!-- <probleminstance>holt_G3562h</probleminstance> -->
+          <!-- <probleminstance>holt_G3813h</probleminstance> -->
+          <probleminstance>integrodiff3</probleminstance>
+          <!-- <probleminstance>lascala_bsbh_d10</probleminstance> -->
+          <probleminstance>lascala_bsbh_d9</probleminstance>
+          <!-- <probleminstance>lascala_neuh_d10</probleminstance> -->
+          <probleminstance>liP162E1</probleminstance>
+          <probleminstance>liP170E1</probleminstance>
+          <probleminstance>liP176E1</probleminstance>
+          <probleminstance>liP176E2_1</probleminstance>
+          <probleminstance>liP176E2_2</probleminstance>
+          <probleminstance>lp1-10</probleminstance>
+          <!-- <probleminstance>ls3nilp-d10</probleminstance> -->
+          <probleminstance>ls3nilp-d6</probleminstance>
+          <probleminstance>lv2d10</probleminstance>
+          <!-- <probleminstance>malle_G12h</probleminstance> -->
+          <probleminstance>mon1</probleminstance>
+          <probleminstance>mon2</probleminstance>
+          <probleminstance>mon3</probleminstance>
+          <probleminstance>plain-braid3-6</probleminstance>
+          <probleminstance>quadrowmm</probleminstance>
+          <probleminstance>serf-g2-d8</probleminstance>
+          <probleminstance>serre-e6-d10</probleminstance>
+          <!-- <probleminstance>serre-e6-d13</probleminstance> -->
+          <!-- <probleminstance>serre-e6-d15</probleminstance> -->
+          <probleminstance>serre-eha112-d10</probleminstance>
+          <!-- <probleminstance>serre-eha112-d12</probleminstance> -->
+          <!-- <probleminstance>serre-eha112-d13</probleminstance> -->
+          <probleminstance>serre-f4-d10</probleminstance>
+          <!-- <probleminstance>serre-f4-d15</probleminstance> -->
+          <probleminstance>serre-full-d8</probleminstance>
+          <probleminstance>serre-ha11-d10</probleminstance>
+          <!-- <probleminstance>serre-ha11-d15</probleminstance> -->
+          <probleminstance>shift1</probleminstance>
+          <probleminstance>shift1inverse</probleminstance>
+          <probleminstance>simple</probleminstance>
+          <probleminstance>toeplitz</probleminstance>
+          <probleminstance>ufn1</probleminstance>
+          <probleminstance>ufn2</probleminstance>
+          <!-- <probleminstance>ufn3</probleminstance> -->
+          <probleminstance>ug2</probleminstance>
+          <probleminstance>ug2-x1-3</probleminstance>
+          <probleminstance>ug2-x1x2x3</probleminstance>
+          <!-- <probleminstance>ug2-x1x2x3x4</probleminstance> -->
+          <probleminstance>ug2-x6-2</probleminstance>
+          <probleminstance>ug2h</probleminstance>
+          <!-- <probleminstance>ug2h-x1-3</probleminstance> -->
+          <probleminstance>usl2</probleminstance>
+          <probleminstance>usl2-e7</probleminstance>
+          <probleminstance>usl2-h3-h</probleminstance>
+          <probleminstance>usl2-h7</probleminstance>
+          <probleminstance>usl2-z</probleminstance>
+          <probleminstance>usl2h</probleminstance>
+          <probleminstance>usl2h-z</probleminstance>
+          <probleminstance>usl3</probleminstance>
+          <probleminstance>usl3-z</probleminstance>
+          <probleminstance>usl3h</probleminstance>
+          <probleminstance>usl3h-z</probleminstance>
+          <probleminstance>weyl1</probleminstance>
+          <probleminstance>weyl1inverse</probleminstance>
+        </probleminstances>
+      </sdtable>
+    </sdtables>
+  </task>

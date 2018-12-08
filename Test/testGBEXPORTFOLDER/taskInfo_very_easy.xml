@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+  <task>
+    <name>testGB</name>
+    <computationproblem>FA_Q_dp</computationproblem>
+    <computeralgebrasystems>
+      <computeralgebrasystem>Singular</computeralgebrasystem>
+      <!-- <computeralgebrasystem>Singular_OLD</computeralgebrasystem> -->
+    </computeralgebrasystems>
+    <sdtables>
+      <sdtable>
+        <tablename>FreeAlgebras</tablename>
+        <probleminstances>
+          <probleminstance>exterior2</probleminstance>
+          <probleminstance>integrodiff3</probleminstance>
+          <probleminstance>mon1</probleminstance>
+          <probleminstance>quadrowmm</probleminstance>
+          <probleminstance>shift1</probleminstance>
+          <probleminstance>shift1inverse</probleminstance>
+          <probleminstance>simple</probleminstance>
+          <probleminstance>toeplitz</probleminstance>
+          <probleminstance>ufn1</probleminstance>
+          <!-- <probleminstance>ufn2</probleminstance> -->
+          <probleminstance>ug2</probleminstance>
+          <!-- <probleminstance>ug2-x1-3</probleminstance> -->
+          <!-- <probleminstance>ug2-x1x2x3</probleminstance> -->
+          <!-- <probleminstance>ug2-x1x2x3x4</probleminstance> -->
+          <!-- <probleminstance>ug2-x6-2</probleminstance> -->
+          <probleminstance>ug2h</probleminstance>
+          <!-- <probleminstance>ug2h-x1-3</probleminstance> -->
+          <probleminstance>usl2</probleminstance>
+          <probleminstance>usl2-e7</probleminstance>
+          <probleminstance>usl2-h7</probleminstance>
+          <probleminstance>usl2h</probleminstance>
+          <probleminstance>usl3</probleminstance>
+          <probleminstance>usl3h</probleminstance>
+          <probleminstance>weyl1</probleminstance>
+          <probleminstance>weyl1inverse</probleminstance>
+        </probleminstances>
+      </sdtable>
+    </sdtables>
+  </task>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+  <task>
+    <name>testGB</name>
+    <computationproblem>FA_Q_dp</computationproblem>
+    <computeralgebrasystems>
+      <computeralgebrasystem>Singular</computeralgebrasystem>
+      <!-- <computeralgebrasystem>Singular_OLD</computeralgebrasystem> -->
+    </computeralgebrasystems>
+    <sdtables>
+      <sdtable>
+        <tablename>FreeAlgebras</tablename>
+        <probleminstances>
+          <!-- <probleminstance>2tri_4var10deg</probleminstance> -->
+          <!-- <probleminstance>4nilp5s-d8</probleminstance> -->
+          <!-- <probleminstance>c_4_1_7</probleminstance> -->
+          <!-- <probleminstance>c_4_1_7a</probleminstance> -->
+          <!-- <probleminstance>c_4_1_7_Y</probleminstance> -->
+          <!-- <probleminstance>c_4_1_7_Z</probleminstance> -->
+          <probleminstance>C_4_1_7_X</probleminstance>
+          <!-- <probleminstance>braid3-11</probleminstance> -->
+          <!-- <probleminstance>lascala_bsbh_d10</probleminstance> -->
+          <!-- <probleminstance>ls3nilp-d10</probleminstance> -->
+          <!-- <probleminstance>serre-f4-d15</probleminstance> -->
+          <!-- <probleminstance>ufn2</probleminstance> -->
+          <!-- <probleminstance>ug2h-x1-3</probleminstance> -->
+          <!-- <probleminstance>ug2-x1x2x3x4</probleminstance> -->
+          <!-- <probleminstance>serre-e6-d13</probleminstance> -->
+          <!-- <probleminstance>serre-e6-d15</probleminstance> -->
+          <!-- <probleminstance>serre-eha112-d13</probleminstance> -->
+          <!-- <probleminstance>serre-ha11-d15</probleminstance> -->
+        </probleminstances>
+      </sdtable>
+    </sdtables>
+  </task>
