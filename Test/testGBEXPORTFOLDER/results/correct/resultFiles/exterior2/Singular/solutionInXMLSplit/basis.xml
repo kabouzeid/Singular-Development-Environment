@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<basis>
+  
+    
+  <polynomial>x*x</polynomial>
+  
+    
+  <polynomial>y*x+x*y</polynomial>
+  
+    
+  <polynomial>y*y</polynomial>
+  
+  
+</basis>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<FA_Q_dp_SOL>
+  <basis>
+    <polynomial>t*x-1</polynomial>
+    <polynomial>x*t-1</polynomial>
+    <polynomial>d*t-t*d+t*t</polynomial>
+    <polynomial>d*x-x*d-1</polynomial>
+  </basis>
+  <originalGenerators>
+    <polynomial>d*x-x*d-1</polynomial>
+    <polynomial>t*x-1</polynomial>
+    <polynomial>x*t-1</polynomial>
+  </originalGenerators>
+  <variables>
+    <variable>d</variable>
+    <variable>x</variable>
+    <variable>t</variable>
+  </variables>
+  <upToDeg>4</upToDeg>
+</FA_Q_dp_SOL>

@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<basis>
+  
+    
+  <polynomial>x2*x1+4*x1*x2-3*x1*x1</polynomial>
+  
+    
+  <polynomial>x2*x2-4*x1*x3+54*x1*x2-40*x1*x1</polynomial>
+  
+    
+  <polynomial>x3*x3-9*x3*x2+2*x1*x4+x1*x1</polynomial>
+  
+    
+  <polynomial>17*x4*x2-41*x1*x4-20*x1*x3+270*x1*x2-200*x1*x1</polynomial>
+  
+    
+  <polynomial>17*x4*x3+204*x4*x1-153*x3*x4+68*x3*x2+697*x3*x1+414*x1*x4+260*x1*x3-3527*x1*x2+2600*x1*x1</polynomial>
+  
+    
+  <polynomial>17*x4*x4-1042*x1*x4-602*x1*x3+6597*x1*x2-4983*x1*x1</polynomial>
+  
+    
+  <polynomial>4*x1*x3*x1-64*x1*x1*x3+1044*x1*x1*x2-735*x1*x1*x1</polynomial>
+  
+    
+  <polynomial>2*x1*x3*x2+8*x1*x2*x3-546*x1*x1*x3+7071*x1*x1*x2-5220*x1*x1*x1</polynomial>
+  
+    
+  <polynomial>306*x3*x2*x3+68*x3*x1*x4-11016*x3*x1*x3+148716*x3*x1*x2-110126*x3*x1*x1+816*x1*x4*x1-612*x1*x3*x4-1088*x1*x2*x3+3132*x1*x1*x4+120590*x1*x1*x3-1712846*x1*x1*x2+1239815*x1*x1*x1</polynomial>
+  
+    
+  <polynomial>4945294458*x3*x2*x4-11590928206*x3*x1*x4-16154463546*x3*x1*x3+292437150876*x3*x1*x2-220005283238*x3*x1*x1+1136470308*x1*x4*x1-2875259808*x1*x3*x4+25990312050*x1*x2*x4-293454954050*x1*x2*x3-37682827965*x1*x1*x4+16792204874504*x1*x1*x3-215661366909620*x1*x1*x2+159500235636143*x1*x1*x1</polynomial>
+  
+    
+  <polynomial>168140011572*x3*x4*x1-2016140964916*x3*x1*x4-1263283387704*x3*x1*x3+13710091274100*x3*x1*x2-11177637711968*x3*x1*x1-2456678073810*x1*x4*x1-988966678500*x1*x3*x4+13446943729218*x1*x2*x4-136417952624228*x1*x2*x3-849620756475*x1*x1*x4+7763955728363828*x1*x1*x3-99574514167841120*x1*x1*x2+73663405211507060*x1*x1*x1</polynomial>
+  
+    
+  <polynomial>154037*x4*x1*x1-1285965*x1*x4*x1-839188*x1*x3*x4+9196218*x1*x2*x4-85464304*x1*x2*x3-6756349*x1*x1*x4+4878039136*x1*x1*x3-62608070032*x1*x1*x2+46309301943*x1*x1*x1</polynomial>
+  
+    
+  <polynomial>616148*x4*x1*x2-3486394*x1*x4*x1-2517564*x1*x3*x4+27588654*x1*x2*x4-256392912*x1*x2*x3-20269047*x1*x1*x4+14637016928*x1*x1*x3-187861722636*x1*x1*x2+138955677794*x1*x1*x1</polynomial>
+  
+    
+  <polynomial>1232296*x4*x1*x3+8744562*x1*x4*x1-839188*x1*x3*x4+9196218*x1*x2*x4-84014544*x1*x2*x3-8548295*x1*x1*x4+4876077696*x1*x1*x3-62595544532*x1*x1*x2+46300152998*x1*x1*x1</polynomial>
+  
+    
+  <polynomial>11849*x4*x1*x4+689112*x1*x2*x3-717869*x1*x1*x4-39847742*x1*x1*x3+510679730*x1*x1*x2-377804060*x1*x1*x1</polynomial>
+  
+    
+  <polynomial>x1*x1*x1*x1</polynomial>
+  
+    
+  <polynomial>x1*x1*x1*x2</polynomial>
+  
+    
+  <polynomial>x1*x1*x1*x3</polynomial>
+  
+    
+  <polynomial>x1*x1*x1*x4</polynomial>
+  
+    
+  <polynomial>x1*x1*x2*x3</polynomial>
+  
+    
+  <polynomial>x1*x1*x2*x4</polynomial>
+  
+    
+  <polynomial>x1*x1*x3*x4</polynomial>
+  
+    
+  <polynomial>x1*x1*x4*x1</polynomial>
+  
+    
+  <polynomial>x1*x2*x3*x1</polynomial>
+  
+    
+  <polynomial>x1*x2*x3*x2</polynomial>
+  
+    
+  <polynomial>x1*x2*x3*x4</polynomial>
+  
+    
+  <polynomial>x1*x2*x4*x1</polynomial>
+  
+    
+  <polynomial>x3*x1*x1*x1</polynomial>
+  
+    
+  <polynomial>x3*x1*x1*x2</polynomial>
+  
+    
+  <polynomial>x3*x1*x1*x3</polynomial>
+  
+    
+  <polynomial>x3*x1*x1*x4</polynomial>
+  
+    
+  <polynomial>x3*x1*x2*x3</polynomial>
+  
+    
+  <polynomial>x3*x1*x2*x4</polynomial>
+  
+    
+  <polynomial>x3*x1*x3*x4</polynomial>
+  
+    
+  <polynomial>x3*x1*x4*x1</polynomial>
+  
+  
+</basis>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<FA_Q_dp_SOL>
+  <basis>
+    <polynomial>e</polynomial>
+    <polynomial>f</polynomial>
+    <polynomial>h</polynomial>
+  </basis>
+  <originalGenerators>
+    <polynomial>f*e-e*f+h</polynomial>
+    <polynomial>h*e-e*h-2*e</polynomial>
+    <polynomial>h*f-f*h+2*f</polynomial>
+    <polynomial>h*h*h*h*h*h*h</polynomial>
+  </originalGenerators>
+  <variables>
+    <variable>h</variable>
+    <variable>f</variable>
+    <variable>e</variable>
+  </variables>
+  <upToDeg>9</upToDeg>
+</FA_Q_dp_SOL>

@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<originalGenerators>
+  
+    
+  <polynomial>d*x-x*d-d</polynomial>
+  
+    
+  <polynomial>t*x-1</polynomial>
+  
+    
+  <polynomial>x*t-1</polynomial>
+  
+  
+</originalGenerators>

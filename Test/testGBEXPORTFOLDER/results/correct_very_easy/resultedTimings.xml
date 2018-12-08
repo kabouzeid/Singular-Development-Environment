@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<proceedings>
+	<timestamp>2018_11_22_14_06_39</timestamp>
+	<task>testGB</task>
+	<waiting/>
+	<running/>
+	<completed>
+		<entry>
+			<probleminstance>exterior2</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.05</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>2.74 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>mon1</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.05</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>2.65 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>quadrowmm</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.06</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>2.73 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>shift1</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.05</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>2.66 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>shift1inverse</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.05</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>2.73 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>simple</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.05</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>2.71 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>toeplitz</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.05</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>2.68 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>ufn1</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.06</real>
+				<sys>0.00</sys>
+				<user>0.05</user>
+				<max_mem>3.30 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>ug2</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.10</real>
+				<sys>0.00</sys>
+				<user>0.08</user>
+				<max_mem>4.25 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl2</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.05</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>2.75 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl2-e7</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.07</real>
+				<sys>0.00</sys>
+				<user>0.06</user>
+				<max_mem>4.50 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl2-h7</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.04</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.75 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl2h</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.04</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.70 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl3</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.04</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.89 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl3h</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.04</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>3.09 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>weyl1</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.04</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.70 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>weyl1inverse</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.04</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.74 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>ug2h</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.13</real>
+				<sys>0.01</sys>
+				<user>0.11</user>
+				<max_mem>5.04 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>integrodiff3</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.05</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>2.75 MB</max_mem>
+			</timings>
+		</entry>
+	</completed>
+	<error/>
+</proceedings>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<originalGenerators>
+  
+    
+  <polynomial>h*H+f*e-e*f</polynomial>
+  
+    
+  <polynomial>h*e-e*h-2*e*H</polynomial>
+  
+    
+  <polynomial>h*f-f*h+2*f*H</polynomial>
+  
+    
+  <polynomial>f*H-H*f</polynomial>
+  
+    
+  <polynomial>e*H-H*e</polynomial>
+  
+    
+  <polynomial>h*H-H*h</polynomial>
+  
+    
+  <polynomial>h*h+4*e*f-2*H*h</polynomial>
+  
+  
+</originalGenerators>

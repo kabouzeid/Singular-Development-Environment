@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<originalGenerators>
+  
+    
+  <polynomial>a*a-a</polynomial>
+  
+    
+  <polynomial>b*b-b</polynomial>
+  
+    
+  <polynomial>c*c-c</polynomial>
+  
+    
+  <polynomial>d*d-d</polynomial>
+  
+    
+  <polynomial>e*e-e</polynomial>
+  
+    
+  <polynomial>a*b*a-a*b</polynomial>
+  
+    
+  <polynomial>b*a*b-a*b</polynomial>
+  
+    
+  <polynomial>a*c*a-a*c</polynomial>
+  
+    
+  <polynomial>c*a*c-a*c</polynomial>
+  
+    
+  <polynomial>a*d*a-a*d</polynomial>
+  
+    
+  <polynomial>d*a*d-a*d</polynomial>
+  
+    
+  <polynomial>a*e*a-a*e</polynomial>
+  
+    
+  <polynomial>e*a*e-a*e</polynomial>
+  
+    
+  <polynomial>b*c*b-b*c</polynomial>
+  
+    
+  <polynomial>c*b*c-b*c</polynomial>
+  
+    
+  <polynomial>b*d*b-b*d</polynomial>
+  
+    
+  <polynomial>d*b*d-b*d</polynomial>
+  
+    
+  <polynomial>b*e*b-b*e</polynomial>
+  
+    
+  <polynomial>e*b*e-b*e</polynomial>
+  
+    
+  <polynomial>c*d*c-c*d</polynomial>
+  
+    
+  <polynomial>d*c*d-c*d</polynomial>
+  
+    
+  <polynomial>c*e*c-c*e</polynomial>
+  
+    
+  <polynomial>e*c*e-e*c</polynomial>
+  
+    
+  <polynomial>e*d*e-d*e</polynomial>
+  
+    
+  <polynomial>d*e*d-d*e</polynomial>
+  
+  
+</originalGenerators>

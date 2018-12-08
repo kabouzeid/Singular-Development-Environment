@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<originalGenerators>
+  
+    
+  <polynomial>x_4*x_5*x_5-x_5*x_5*x_4</polynomial>
+  
+    
+  <polynomial>x_3*x_5*x_5-x_5*x_5*x_3</polynomial>
+  
+    
+  <polynomial>x_2*x_5*x_5-x_5*x_5*x_2</polynomial>
+  
+    
+  <polynomial>x_1*x_5*x_5-x_5*x_5*x_1</polynomial>
+  
+    
+  <polynomial>-x_4*x_4*x_5+x_5*x_4*x_4</polynomial>
+  
+    
+  <polynomial>x_3*x_5*x_4-x_4*x_3*x_5-x_4*x_5*x_3+x_5*x_3*x_4</polynomial>
+  
+    
+  <polynomial>x_2*x_5*x_4-x_4*x_2*x_5-x_4*x_5*x_2+x_5*x_2*x_4</polynomial>
+  
+    
+  <polynomial>x_1*x_5*x_4-x_4*x_1*x_5-x_4*x_5*x_1+x_5*x_1*x_4</polynomial>
+  
+    
+  <polynomial>-x_3*x_4*x_5-x_3*x_5*x_4+x_4*x_5*x_3+x_5*x_4*x_3</polynomial>
+  
+    
+  <polynomial>-x_3*x_3*x_5+x_5*x_3*x_3</polynomial>
+  
+    
+  <polynomial>x_2*x_5*x_3-x_3*x_2*x_5-x_3*x_5*x_2+x_5*x_2*x_3</polynomial>
+  
+    
+  <polynomial>x_1*x_5*x_3-x_3*x_1*x_5-x_3*x_5*x_1+x_5*x_1*x_3</polynomial>
+  
+    
+  <polynomial>-x_2*x_4*x_5-x_2*x_5*x_4+x_4*x_5*x_2+x_5*x_4*x_2</polynomial>
+  
+    
+  <polynomial>-x_2*x_3*x_5-x_2*x_5*x_3+x_3*x_5*x_2+x_5*x_3*x_2</polynomial>
+  
+    
+  <polynomial>-x_2*x_2*x_5+x_5*x_2*x_2</polynomial>
+  
+    
+  <polynomial>x_1*x_5*x_2-x_2*x_1*x_5-x_2*x_5*x_1+x_5*x_1*x_2</polynomial>
+  
+    
+  <polynomial>-x_1*x_4*x_5-x_1*x_5*x_4+x_4*x_5*x_1+x_5*x_4*x_1</polynomial>
+  
+    
+  <polynomial>-x_1*x_3*x_5-x_1*x_5*x_3+x_3*x_5*x_1+x_5*x_3*x_1</polynomial>
+  
+    
+  <polynomial>-x_1*x_2*x_5-x_1*x_5*x_2+x_2*x_5*x_1+x_5*x_2*x_1</polynomial>
+  
+    
+  <polynomial>-x_1*x_1*x_5+x_5*x_1*x_1</polynomial>
+  
+    
+  <polynomial>x_3*x_4*x_4-x_4*x_4*x_3</polynomial>
+  
+    
+  <polynomial>x_2*x_4*x_4-x_4*x_4*x_2</polynomial>
+  
+    
+  <polynomial>x_1*x_4*x_4-x_4*x_4*x_1</polynomial>
+  
+    
+  <polynomial>-x_3*x_3*x_4+x_4*x_3*x_3</polynomial>
+  
+    
+  <polynomial>x_2*x_4*x_3-x_3*x_2*x_4-x_3*x_4*x_2+x_4*x_2*x_3</polynomial>
+  
+    
+  <polynomial>x_1*x_4*x_3-x_3*x_1*x_4-x_3*x_4*x_1+x_4*x_1*x_3</polynomial>
+  
+    
+  <polynomial>-x_2*x_3*x_4-x_2*x_4*x_3+x_3*x_4*x_2+x_4*x_3*x_2</polynomial>
+  
+    
+  <polynomial>-x_2*x_2*x_4+x_4*x_2*x_2</polynomial>
+  
+    
+  <polynomial>x_1*x_4*x_2-x_2*x_1*x_4-x_2*x_4*x_1+x_4*x_1*x_2</polynomial>
+  
+    
+  <polynomial>-x_1*x_3*x_4-x_1*x_4*x_3+x_3*x_4*x_1+x_4*x_3*x_1</polynomial>
+  
+    
+  <polynomial>-x_1*x_2*x_4-x_1*x_4*x_2+x_2*x_4*x_1+x_4*x_2*x_1</polynomial>
+  
+    
+  <polynomial>-x_1*x_1*x_4+x_4*x_1*x_1</polynomial>
+  
+    
+  <polynomial>x_2*x_3*x_3-x_3*x_3*x_2</polynomial>
+  
+    
+  <polynomial>x_1*x_3*x_3-x_3*x_3*x_1</polynomial>
+  
+    
+  <polynomial>-x_2*x_2*x_3+x_3*x_2*x_2</polynomial>
+  
+    
+  <polynomial>x_1*x_3*x_2-x_2*x_1*x_3-x_2*x_3*x_1+x_3*x_1*x_2</polynomial>
+  
+    
+  <polynomial>-x_1*x_2*x_3-x_1*x_3*x_2+x_2*x_3*x_1+x_3*x_2*x_1</polynomial>
+  
+    
+  <polynomial>-x_1*x_1*x_3+x_3*x_1*x_1</polynomial>
+  
+    
+  <polynomial>x_1*x_2*x_2-x_2*x_2*x_1</polynomial>
+  
+    
+  <polynomial>-x_1*x_1*x_2+x_2*x_1*x_1</polynomial>
+  
+    
+  <polynomial>x_1*x_2*x_4*x_3*x_5-x_1*x_3*x_4*x_2*x_5-x_1*x_4*x_2*x_3*x_5+x_1*x_4*x_3*x_2*x_5-x_2*x_1*x_4*x_3*x_5+x_2*x_3*x_4*x_1*x_5+x_2*x_4*x_1*x_3*x_5-x_2*x_4*x_3*x_1*x_5+x_3*x_1*x_4*x_2*x_5-x_3*x_2*x_4*x_1*x_5-x_3*x_4*x_1*x_2*x_5+x_3*x_4*x_2*x_1*x_5</polynomial>
+  
+  
+</originalGenerators>

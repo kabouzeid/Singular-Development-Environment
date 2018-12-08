@@ -1,0 +1,227 @@
+<?xml version="1.0" ?>
+<basis>
+  
+    
+  <polynomial>x*y+y*z</polynomial>
+  
+    
+  <polynomial>x*x-y*x-y*y-y*z</polynomial>
+  
+    
+  <polynomial>y*y*y-y*y*z+y*z*y-y*z*z</polynomial>
+  
+    
+  <polynomial>y*y*x+y*y*z+y*z*x+y*z*z</polynomial>
+  
+    
+  <polynomial>y*z*y*y-y*z*y*z+y*z*z*y-y*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*y*x+y*z*y*z+y*z*z*x+y*z*z*z</polynomial>
+  
+    
+  <polynomial>y*y*z*y-y*y*z*z+y*z*z*y-y*z*z*z</polynomial>
+  
+    
+  <polynomial>y*y*z*x+y*y*z*z+y*z*z*x+y*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*y*y-y*z*z*y*z+y*z*z*z*y-y*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*y*x+y*z*z*y*z+y*z*z*z*x+y*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*y*z*y-y*z*y*z*z+y*z*z*z*y-y*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*y*z*x+y*z*y*z*z+y*z*z*z*x+y*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*y*z*z*y-y*y*z*z*z+y*z*z*z*y-y*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*y*z*z*x+y*y*z*z*z+y*z*z*z*x+y*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*y*y-y*z*z*z*y*z+y*z*z*z*z*y-y*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*y*x+y*z*z*z*y*z+y*z*z*z*z*x+y*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*y*z*y-y*z*z*y*z*z+y*z*z*z*z*y-y*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*y*z*x+y*z*z*y*z*z+y*z*z*z*z*x+y*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*y*z*z*y-y*z*y*z*z*z+y*z*z*z*z*y-y*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*y*z*z*x+y*z*y*z*z*z+y*z*z*z*z*x+y*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*y*z*z*z*y-y*y*z*z*z*z+y*z*z*z*z*y-y*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*y*z*z*z*x+y*y*z*z*z*z+y*z*z*z*z*x+y*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*y*y-y*z*z*z*z*y*z+y*z*z*z*z*z*y-y*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*y*x+y*z*z*z*z*y*z+y*z*z*z*z*z*x+y*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*y*z*y-y*z*z*z*y*z*z+y*z*z*z*z*z*y-y*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*y*z*x+y*z*z*z*y*z*z+y*z*z*z*z*z*x+y*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*y*z*z*y-y*z*z*y*z*z*z+y*z*z*z*z*z*y-y*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*y*z*z*x+y*z*z*y*z*z*z+y*z*z*z*z*z*x+y*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*y*z*z*z*y-y*z*y*z*z*z*z+y*z*z*z*z*z*y-y*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*y*z*z*z*x+y*z*y*z*z*z*z+y*z*z*z*z*z*x+y*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*y*z*z*z*z*y-y*y*z*z*z*z*z+y*z*z*z*z*z*y-y*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*y*z*z*z*z*x+y*y*z*z*z*z*z+y*z*z*z*z*z*x+y*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*z*y*y-y*z*z*z*z*z*y*z+y*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*z*y*x+y*z*z*z*z*z*y*z+y*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*y*z*y-y*z*z*z*z*y*z*z+y*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*y*z*x+y*z*z*z*z*y*z*z+y*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*y*z*z*y-y*z*z*z*y*z*z*z+y*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*y*z*z*x+y*z*z*z*y*z*z*z+y*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*y*z*z*z*y-y*z*z*y*z*z*z*z+y*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*y*z*z*z*x+y*z*z*y*z*z*z*z+y*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*y*z*z*z*z*y-y*z*y*z*z*z*z*z+y*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*y*z*z*z*z*x+y*z*y*z*z*z*z*z+y*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*y*z*z*z*z*z*y-y*y*z*z*z*z*z*z+y*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*y*z*z*z*z*z*x+y*y*z*z*z*z*z*z+y*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*z*z*y*y-y*z*z*z*z*z*z*y*z+y*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*z*z*y*x+y*z*z*z*z*z*z*y*z+y*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*z*y*z*y-y*z*z*z*z*z*y*z*z+y*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*z*y*z*x+y*z*z*z*z*z*y*z*z+y*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*y*z*z*y-y*z*z*z*z*y*z*z*z+y*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*y*z*z*x+y*z*z*z*z*y*z*z*z+y*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*y*z*z*z*y-y*z*z*z*y*z*z*z*z+y*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*y*z*z*z*x+y*z*z*z*y*z*z*z*z+y*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*y*z*z*z*z*y-y*z*z*y*z*z*z*z*z+y*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*y*z*z*z*z*x+y*z*z*y*z*z*z*z*z+y*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*y*z*z*z*z*z*y-y*z*y*z*z*z*z*z*z+y*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*y*z*z*z*z*z*x+y*z*y*z*z*z*z*z*z+y*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*y*z*z*z*z*z*z*y-y*y*z*z*z*z*z*z*z+y*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*y*z*z*z*z*z*z*x+y*y*z*z*z*z*z*z*z+y*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*z*z*z*y*y-y*z*z*z*z*z*z*z*y*z+y*z*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*z*z*z*y*x+y*z*z*z*z*z*z*z*y*z+y*z*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*z*z*y*z*y-y*z*z*z*z*z*z*y*z*z+y*z*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*z*z*y*z*x+y*z*z*z*z*z*z*y*z*z+y*z*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*z*y*z*z*y-y*z*z*z*z*z*y*z*z*z+y*z*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*z*y*z*z*x+y*z*z*z*z*z*y*z*z*z+y*z*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*y*z*z*z*y-y*z*z*z*z*y*z*z*z*z+y*z*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*z*y*z*z*z*x+y*z*z*z*z*y*z*z*z*z+y*z*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*y*z*z*z*z*y-y*z*z*z*y*z*z*z*z*z+y*z*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*z*y*z*z*z*z*x+y*z*z*z*y*z*z*z*z*z+y*z*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*y*z*z*z*z*z*y-y*z*z*y*z*z*z*z*z*z+y*z*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*z*y*z*z*z*z*z*x+y*z*z*y*z*z*z*z*z*z+y*z*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*y*z*z*z*z*z*z*y-y*z*y*z*z*z*z*z*z*z+y*z*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*z*y*z*z*z*z*z*z*x+y*z*y*z*z*z*z*z*z*z+y*z*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*y*z*z*z*z*z*z*z*y-y*y*z*z*z*z*z*z*z*z+y*z*z*z*z*z*z*z*z*y-y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+    
+  <polynomial>y*y*z*z*z*z*z*z*z*x+y*y*z*z*z*z*z*z*z*z+y*z*z*z*z*z*z*z*z*x+y*z*z*z*z*z*z*z*z*z</polynomial>
+  
+  
+</basis>

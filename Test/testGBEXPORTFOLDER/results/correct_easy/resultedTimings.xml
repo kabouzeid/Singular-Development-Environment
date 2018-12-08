@@ -1,0 +1,1010 @@
+<?xml version="1.0" ?>
+<proceedings>
+	<timestamp>2018_11_22_14_11_12</timestamp>
+	<task>testGB</task>
+	<waiting/>
+	<running/>
+	<completed>
+		<entry>
+			<probleminstance>c_4_1_7_W</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.29</real>
+				<sys>0.01</sys>
+				<user>0.27</user>
+				<max_mem>14.21 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>exterior2</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.05</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>2.72 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>fullSerreRel1</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.05</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>2.71 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>fullSerreRel2</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.07</real>
+				<sys>0.00</sys>
+				<user>0.06</user>
+				<max_mem>3.22 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h1</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.15</real>
+				<sys>0.01</sys>
+				<user>0.14</user>
+				<max_mem>5.44 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h10</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.22</real>
+				<sys>0.01</sys>
+				<user>0.19</user>
+				<max_mem>6.44 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>2tri_4var7deg</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>1.81</real>
+				<sys>0.06</sys>
+				<user>1.41</user>
+				<max_mem>27.82 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h11</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.21</real>
+				<sys>0.01</sys>
+				<user>0.19</user>
+				<max_mem>6.44 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h12</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.20</real>
+				<sys>0.01</sys>
+				<user>0.17</user>
+				<max_mem>8.52 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h13</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.16</real>
+				<sys>0.01</sys>
+				<user>0.14</user>
+				<max_mem>7.77 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h14</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.21</real>
+				<sys>0.01</sys>
+				<user>0.19</user>
+				<max_mem>8.51 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h15</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.18</real>
+				<sys>0.00</sys>
+				<user>0.16</user>
+				<max_mem>8.56 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h16</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.20</real>
+				<sys>0.01</sys>
+				<user>0.18</user>
+				<max_mem>8.52 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h17</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.22</real>
+				<sys>0.01</sys>
+				<user>0.20</user>
+				<max_mem>8.54 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h18</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.18</real>
+				<sys>0.01</sys>
+				<user>0.17</user>
+				<max_mem>8.55 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h19</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.19</real>
+				<sys>0.01</sys>
+				<user>0.17</user>
+				<max_mem>8.52 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h2</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.16</real>
+				<sys>0.01</sys>
+				<user>0.14</user>
+				<max_mem>5.89 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h20</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.24</real>
+				<sys>0.01</sys>
+				<user>0.22</user>
+				<max_mem>8.54 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h21</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.18</real>
+				<sys>0.01</sys>
+				<user>0.16</user>
+				<max_mem>8.52 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h22</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.17</real>
+				<sys>0.01</sys>
+				<user>0.16</user>
+				<max_mem>8.60 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h23</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.17</real>
+				<sys>0.00</sys>
+				<user>0.16</user>
+				<max_mem>8.48 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h24</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.20</real>
+				<sys>0.01</sys>
+				<user>0.18</user>
+				<max_mem>8.51 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h25</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.18</real>
+				<sys>0.01</sys>
+				<user>0.16</user>
+				<max_mem>8.53 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h26</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.18</real>
+				<sys>0.01</sys>
+				<user>0.16</user>
+				<max_mem>8.50 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h27</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.18</real>
+				<sys>0.01</sys>
+				<user>0.16</user>
+				<max_mem>8.57 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h28</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.18</real>
+				<sys>0.01</sys>
+				<user>0.16</user>
+				<max_mem>8.55 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h29</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.26</real>
+				<sys>0.01</sys>
+				<user>0.20</user>
+				<max_mem>8.54 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h3</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.13</real>
+				<sys>0.00</sys>
+				<user>0.12</user>
+				<max_mem>6.43 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h30</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.18</real>
+				<sys>0.01</sys>
+				<user>0.17</user>
+				<max_mem>8.62 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h31</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.22</real>
+				<sys>0.01</sys>
+				<user>0.19</user>
+				<max_mem>8.54 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h32</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.18</real>
+				<sys>0.01</sys>
+				<user>0.16</user>
+				<max_mem>8.64 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h33</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.18</real>
+				<sys>0.01</sys>
+				<user>0.16</user>
+				<max_mem>8.49 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h34</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.17</real>
+				<sys>0.01</sys>
+				<user>0.16</user>
+				<max_mem>8.66 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h35</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.19</real>
+				<sys>0.01</sys>
+				<user>0.17</user>
+				<max_mem>8.53 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h36</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.33</real>
+				<sys>0.03</sys>
+				<user>0.25</user>
+				<max_mem>8.54 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h37</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.36</real>
+				<sys>0.05</sys>
+				<user>0.26</user>
+				<max_mem>8.50 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h38</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.17</real>
+				<sys>0.01</sys>
+				<user>0.16</user>
+				<max_mem>8.59 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h39</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.17</real>
+				<sys>0.01</sys>
+				<user>0.16</user>
+				<max_mem>8.61 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h4</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.13</real>
+				<sys>0.00</sys>
+				<user>0.12</user>
+				<max_mem>6.46 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h40</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.18</real>
+				<sys>0.01</sys>
+				<user>0.16</user>
+				<max_mem>8.49 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h41</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.19</real>
+				<sys>0.01</sys>
+				<user>0.17</user>
+				<max_mem>8.56 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h42</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.20</real>
+				<sys>0.01</sys>
+				<user>0.18</user>
+				<max_mem>8.49 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h43</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.21</real>
+				<sys>0.01</sys>
+				<user>0.19</user>
+				<max_mem>8.53 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h44</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.20</real>
+				<sys>0.01</sys>
+				<user>0.18</user>
+				<max_mem>8.51 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h45</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.20</real>
+				<sys>0.01</sys>
+				<user>0.18</user>
+				<max_mem>8.47 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h46</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.24</real>
+				<sys>0.02</sys>
+				<user>0.20</user>
+				<max_mem>8.54 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h47</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.18</real>
+				<sys>0.01</sys>
+				<user>0.16</user>
+				<max_mem>8.63 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h48</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.21</real>
+				<sys>0.01</sys>
+				<user>0.18</user>
+				<max_mem>8.52 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h5</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.15</real>
+				<sys>0.00</sys>
+				<user>0.14</user>
+				<max_mem>6.47 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h6</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.14</real>
+				<sys>0.00</sys>
+				<user>0.12</user>
+				<max_mem>6.46 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h7</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.13</real>
+				<sys>0.00</sys>
+				<user>0.11</user>
+				<max_mem>6.45 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h8</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.14</real>
+				<sys>0.00</sys>
+				<user>0.13</user>
+				<max_mem>6.55 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>h9</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.13</real>
+				<sys>0.00</sys>
+				<user>0.12</user>
+				<max_mem>6.47 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>integrodiff3</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.02</user>
+				<max_mem>2.75 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>lascala_bsbh_d9</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.49</real>
+				<sys>0.01</sys>
+				<user>0.47</user>
+				<max_mem>28.68 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>liP162E1</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.02</user>
+				<max_mem>2.68 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>liP170E1</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.02</user>
+				<max_mem>2.70 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>liP176E1</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.02</user>
+				<max_mem>2.70 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>liP176E2_1</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.64 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>liP176E2_2</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.02</user>
+				<max_mem>2.71 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>lp1-10</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.41</real>
+				<sys>0.01</sys>
+				<user>0.39</user>
+				<max_mem>25.43 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>ls3nilp-d6</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.09</real>
+				<sys>0.00</sys>
+				<user>0.08</user>
+				<max_mem>5.39 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>lv2d10</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.05</real>
+				<sys>0.00</sys>
+				<user>0.05</user>
+				<max_mem>4.03 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>mon1</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.02</user>
+				<max_mem>2.70 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>mon2</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.69 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>mon3</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.65 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>plain-braid3-6</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.06</real>
+				<sys>0.00</sys>
+				<user>0.05</user>
+				<max_mem>3.19 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>quadrowmm</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.02</user>
+				<max_mem>2.74 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>serf-g2-d8</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.04</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.90 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>serre-e6-d10</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.34</real>
+				<sys>0.01</sys>
+				<user>0.32</user>
+				<max_mem>19.41 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>serre-eha112-d10</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.09</real>
+				<sys>0.00</sys>
+				<user>0.08</user>
+				<max_mem>5.47 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>serre-f4-d10</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.11</real>
+				<sys>0.00</sys>
+				<user>0.10</user>
+				<max_mem>8.02 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>serre-full-d8</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.04</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.91 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>serre-ha11-d10</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.08</real>
+				<sys>0.00</sys>
+				<user>0.07</user>
+				<max_mem>6.11 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>shift1</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.67 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>shift1inverse</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.04</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>2.72 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>simple</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.04</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.70 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>toeplitz</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.04</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.66 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>ufn1</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.05</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>3.35 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>braid4-11</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>2.05</real>
+				<sys>0.06</sys>
+				<user>1.59</user>
+				<max_mem>53.89 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>ug2</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.09</real>
+				<sys>0.00</sys>
+				<user>0.08</user>
+				<max_mem>4.21 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>ug2-x1-3</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>1.03</real>
+				<sys>0.05</sys>
+				<user>0.95</user>
+				<max_mem>28.32 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>ug2-x1x2x3</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>1.24</real>
+				<sys>0.07</sys>
+				<user>1.15</user>
+				<max_mem>30.26 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>ug2-x6-2</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>1.14</real>
+				<sys>0.06</sys>
+				<user>1.05</user>
+				<max_mem>29.57 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>ug2h</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.14</real>
+				<sys>0.01</sys>
+				<user>0.12</user>
+				<max_mem>5.07 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl2</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.05</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>2.75 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl2-e7</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.06</real>
+				<sys>0.00</sys>
+				<user>0.05</user>
+				<max_mem>4.50 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl2-h3-h</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.74 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl2-h7</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.77 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl2-z</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.74 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl2h</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.02</user>
+				<max_mem>2.72 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl2h-z</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.69 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl3</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.04</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.88 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl3-z</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.04</real>
+				<sys>0.00</sys>
+				<user>0.04</user>
+				<max_mem>3.43 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl3h</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.04</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>3.08 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>usl3h-z</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.09</real>
+				<sys>0.00</sys>
+				<user>0.08</user>
+				<max_mem>5.82 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>weyl1</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.02</user>
+				<max_mem>2.64 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>weyl1inverse</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>0.03</real>
+				<sys>0.00</sys>
+				<user>0.03</user>
+				<max_mem>2.75 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>ufn2</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>12.57</real>
+				<sys>0.33</sys>
+				<user>12.14</user>
+				<max_mem>227.48 MB</max_mem>
+			</timings>
+		</entry>
+		<entry>
+			<probleminstance>C_4_1_7_X</probleminstance>
+			<computeralgebrasystem>Singular</computeralgebrasystem>
+			<timings>
+				<real>2.42</real>
+				<sys>0.06</sys>
+				<user>1.95</user>
+				<max_mem>79.84 MB</max_mem>
+			</timings>
+		</entry>
+	</completed>
+	<error/>
+</proceedings>

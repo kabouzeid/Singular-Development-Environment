@@ -1,0 +1,86 @@
+LIB "freegb.lib";
+ring r = 0,(x1,x2,x3,x4,x5,x6),dp;
+int upToDeg = 10;
+def R = makeLetterplaceRing(upToDeg);
+setring(R);
+ideal Id = x6*x5*x6-x6*x6*x5,
+x6*x4*x6-x6*x6*x4,
+x6*x3*x6-x6*x6*x3,
+x6*x2*x6-x6*x6*x2,
+x6*x1*x6-x6*x6*x1,
+x5*x6*x5-x5*x5*x6,
+x6*x4*x5+x4*x6*x5-x4*x5*x6-x5*x6*x4,
+x6*x3*x5+x3*x6*x5-x3*x5*x6-x5*x6*x3,
+x6*x2*x5+x2*x6*x5-x2*x5*x6-x5*x6*x2,
+x6*x1*x5+x1*x6*x5-x1*x5*x6-x5*x6*x1,
+x5*x6*x4+x6*x5*x4-x5*x4*x6-x6*x4*x5,
+x4*x6*x4-x4*x4*x6,
+x6*x3*x4+x3*x6*x4-x3*x4*x6-x4*x6*x3,
+x6*x2*x4+x2*x6*x4-x2*x4*x6-x4*x6*x2,
+x6*x1*x4+x1*x6*x4-x1*x4*x6-x4*x6*x1,
+x5*x6*x3+x6*x5*x3-x5*x3*x6-x6*x3*x5,
+x4*x6*x3+x6*x4*x3-x4*x3*x6-x6*x3*x4,
+x3*x6*x3-x3*x3*x6,
+x6*x2*x3+x2*x6*x3-x2*x3*x6-x3*x6*x2,
+x6*x1*x3+x1*x6*x3-x1*x3*x6-x3*x6*x1,
+x5*x6*x2+x6*x5*x2-x5*x2*x6-x6*x2*x5,
+x4*x6*x2+x6*x4*x2-x4*x2*x6-x6*x2*x4,
+x3*x6*x2+x6*x3*x2-x3*x2*x6-x6*x2*x3,
+x2*x6*x2-x2*x2*x6,
+x6*x1*x2+x1*x6*x2-x1*x2*x6-x2*x6*x1,
+x5*x6*x1+x6*x5*x1-x5*x1*x6-x6*x1*x5,
+x4*x6*x1+x6*x4*x1-x4*x1*x6-x6*x1*x4,
+x3*x6*x1+x6*x3*x1-x3*x1*x6-x6*x1*x3,
+x2*x6*x1+x6*x2*x1-x2*x1*x6-x6*x1*x2,
+x1*x6*x1-x1*x1*x6,
+x5*x4*x5-x5*x5*x4,
+x5*x3*x5-x5*x5*x3,
+x5*x2*x5-x5*x5*x2,
+x5*x1*x5-x5*x5*x1,
+x4*x5*x4-x4*x4*x5,
+x5*x3*x4+x3*x5*x4-x3*x4*x5-x4*x5*x3,
+x5*x2*x4+x2*x5*x4-x2*x4*x5-x4*x5*x2,
+x5*x1*x4+x1*x5*x4-x1*x4*x5-x4*x5*x1,
+x4*x5*x3+x5*x4*x3-x4*x3*x5-x5*x3*x4,
+x3*x5*x3-x3*x3*x5,
+x5*x2*x3+x2*x5*x3-x2*x3*x5-x3*x5*x2,
+x5*x1*x3+x1*x5*x3-x1*x3*x5-x3*x5*x1,
+x4*x5*x2+x5*x4*x2-x4*x2*x5-x5*x2*x4,
+x3*x5*x2+x5*x3*x2-x3*x2*x5-x5*x2*x3,
+x2*x5*x2-x2*x2*x5,
+x5*x1*x2+x1*x5*x2-x1*x2*x5-x2*x5*x1,
+x4*x5*x1+x5*x4*x1-x4*x1*x5-x5*x1*x4,
+x3*x5*x1+x5*x3*x1-x3*x1*x5-x5*x1*x3,
+x2*x5*x1+x5*x2*x1-x2*x1*x5-x5*x1*x2,
+x1*x5*x1-x1*x1*x5,
+x4*x3*x4-x4*x4*x3,
+x4*x2*x4-x4*x4*x2,
+x4*x1*x4-x4*x4*x1,
+x3*x4*x3-x3*x3*x4,
+x4*x2*x3+x2*x4*x3-x2*x3*x4-x3*x4*x2,
+x4*x1*x3+x1*x4*x3-x1*x3*x4-x3*x4*x1,
+x3*x4*x2+x4*x3*x2-x3*x2*x4-x4*x2*x3,
+x2*x4*x2-x2*x2*x4,
+x4*x1*x2+x1*x4*x2-x1*x2*x4-x2*x4*x1,
+x3*x4*x1+x4*x3*x1-x3*x1*x4-x4*x1*x3,
+x2*x4*x1+x4*x2*x1-x2*x1*x4-x4*x1*x2,
+x1*x4*x1-x1*x1*x4,
+x3*x2*x3-x3*x3*x2,
+x3*x1*x3-x3*x3*x1,
+x2*x3*x2-x2*x2*x3,
+x3*x1*x2+x1*x3*x2-x1*x2*x3-x2*x3*x1,
+x2*x3*x1+x3*x2*x1-x2*x1*x3-x3*x1*x2,
+x1*x3*x1-x1*x1*x3,
+x2*x1*x2-x2*x2*x1,
+x1*x2*x1-x1*x1*x2,
+-x1*x4*x5*x2*x3*x6+x1*x4*x5*x3*x2*x6-x2*x5*x3*x1*x4*x6-x2*x5*x1*x3*x4*x6+x2*x5*x4*x1*x3*x6+x2*x4*x1*x3*x5*x6+x2*x1*x5*x3*x4*x6-x2*x1*x5*x4*x3*x6+3*x2*x1*x4*x3*x5*x6-x2*x1*x4*x3*x5*x6-3*x2*x4*x1*x3*x5*x6+x2*x5*x1*x4*x3*x6-3*x1*x2*x4*x3*x5*x6+x1*x2*x4*x3*x5*x6+x3*x1*x2*x4*x5*x6+3*x3*x1*x2*x5*x4*x6-x3*x1*x2*x5*x4*x6-x1*x2*x5*x3*x4*x6+x1*x2*x5*x4*x3*x6-3*x3*x1*x2*x4*x5*x6+3*x3*x1*x2*x4*x5*x6-x3*x1*x2*x4*x5*x6-3*x3*x1*x2*x5*x4*x6+x3*x1*x2*x5*x4*x6-3*x3*x1*x4*x2*x5*x6+x3*x1*x4*x2*x5*x6+3*x3*x4*x1*x2*x5*x6-x3*x4*x1*x2*x5*x6-x3*x1*x5*x2*x4*x6+x3*x1*x5*x4*x2*x6+x3*x5*x2*x1*x4*x6+x3*x5*x1*x2*x4*x6-x1*x3*x4*x2*x5*x6+x1*x3*x5*x2*x4*x6-x1*x3*x5*x4*x2*x6-x3*x5*x4*x1*x2*x6-x3*x5*x1*x4*x2*x6+3*x1*x3*x4*x2*x5*x6-3*x4*x1*x2*x5*x3*x6+x4*x1*x2*x5*x3*x6+3*x4*x2*x5*x1*x3*x6-x4*x2*x5*x1*x3*x6+3*x4*x1*x2*x5*x3*x6-x4*x1*x2*x5*x3*x6+3*x4*x1*x3*x5*x2*x6-x4*x1*x3*x5*x2*x6-3*x4*x3*x5*x1*x2*x6+x4*x3*x5*x1*x2*x6-3*x4*x1*x3*x5*x2*x6+x4*x1*x3*x5*x2*x6+x4*x1*x5*x2*x3*x6-x4*x1*x5*x3*x2*x6-x4*x5*x2*x1*x3*x6-x4*x5*x1*x2*x3*x6+x4*x5*x3*x1*x2*x6+x4*x5*x1*x3*x2*x6;
+option(prot);
+option(redTail);
+option(redSB);
+ideal IdSTD = std(Id);
+print("=====Solution Begin=====");
+print (IdSTD, "%s");
+print (varstr(r), "%s");
+print (upToDeg, "%s");
+print (Id, "%s");
+print("=====Solution End=====");$;

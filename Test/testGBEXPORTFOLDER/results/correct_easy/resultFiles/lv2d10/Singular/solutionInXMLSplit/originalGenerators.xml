@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<originalGenerators>
+  
+    
+  <polynomial>x*y+y*z</polynomial>
+  
+    
+  <polynomial>x*x+x*y-y*x-y*y</polynomial>
+  
+  
+</originalGenerators>

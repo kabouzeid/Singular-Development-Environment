@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<FA_Q_dp_SOL>
+  <basis>
+    <polynomial>x*x</polynomial>
+    <polynomial>y*x+x*y</polynomial>
+    <polynomial>y*y</polynomial>
+  </basis>
+  <originalGenerators>
+    <polynomial>y*x+x*y</polynomial>
+    <polynomial>x*x</polynomial>
+    <polynomial>y*y</polynomial>
+  </originalGenerators>
+  <variables>
+    <variable>y</variable>
+    <variable>x</variable>
+  </variables>
+  <upToDeg>4</upToDeg>
+</FA_Q_dp_SOL>

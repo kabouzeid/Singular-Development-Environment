@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<RunTaskOptions>
+	<maxCPU/>
+	<maxMem/>
+	<maxJobs>4</maxJobs>
+	<resume>0</resume>
+</RunTaskOptions>

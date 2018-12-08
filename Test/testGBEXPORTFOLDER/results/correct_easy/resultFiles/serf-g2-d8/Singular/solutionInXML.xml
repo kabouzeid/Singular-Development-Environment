@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<FA_Q_dp_SOL>
+  <basis>
+    <polynomial>h2</polynomial>
+    <polynomial>h1</polynomial>
+    <polynomial>e2</polynomial>
+    <polynomial>e1</polynomial>
+    <polynomial>f2</polynomial>
+    <polynomial>f1</polynomial>
+  </basis>
+  <originalGenerators>
+    <polynomial>f1*f2*f2-2*f2*f1*f2+f2*f2*f1</polynomial>
+    <polynomial>e1*e2*e2-2*e2*e1*e2+e2*e2*e1</polynomial>
+    <polynomial>f1*f1*f1*f1*f2-4*f1*f1*f1*f2*f1+6*f1*f1*f2*f1*f1-4*f1*f2*f1*f1*f1+f2*f1*f1*f1*f1</polynomial>
+    <polynomial>e1*e1*e1*e1*e2-4*e1*e1*e1*e2*e1+6*e1*e1*e2*e1*e1-4*e1*e2*e1*e1*e1+e2*e1*e1*e1*e1</polynomial>
+    <polynomial>f2*e1-e1*f2</polynomial>
+    <polynomial>f1*e2-e2*f1</polynomial>
+    <polynomial>f1*e1-e1*f1+h1</polynomial>
+    <polynomial>f2*e2-e2*f2+h2</polynomial>
+    <polynomial>h1*h2-h2*h1</polynomial>
+    <polynomial>-e1*h1+h1*e1-2*e1</polynomial>
+    <polynomial>f1*h1-h1*f1-2*f1</polynomial>
+    <polynomial>-e2*h1+h1*e2+e2</polynomial>
+    <polynomial>f2*h1-h1*f2+f2</polynomial>
+    <polynomial>-e1*h2+h2*e1+3*e1</polynomial>
+    <polynomial>f1*h2-h2*f1+3*f1</polynomial>
+    <polynomial>-e2*h2+h2*e2-2*e2</polynomial>
+    <polynomial>f2*h2-h2*f2-2*f2</polynomial>
+  </originalGenerators>
+  <variables>
+    <variable>f1</variable>
+    <variable>f2</variable>
+    <variable>e1</variable>
+    <variable>e2</variable>
+    <variable>h1</variable>
+    <variable>h2</variable>
+  </variables>
+  <upToDeg>8</upToDeg>
+</FA_Q_dp_SOL>

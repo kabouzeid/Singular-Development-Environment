@@ -1,0 +1,986 @@
+<?xml version="1.0" ?>
+<basis>
+  
+    
+  <polynomial>e*e-e</polynomial>
+  
+    
+  <polynomial>d*d-d</polynomial>
+  
+    
+  <polynomial>c*c-c</polynomial>
+  
+    
+  <polynomial>b*b-b</polynomial>
+  
+    
+  <polynomial>a*a-a</polynomial>
+  
+    
+  <polynomial>e*d*e-d*e</polynomial>
+  
+    
+  <polynomial>e*c*e-e*c</polynomial>
+  
+    
+  <polynomial>e*b*e-b*e</polynomial>
+  
+    
+  <polynomial>e*a*e-a*e</polynomial>
+  
+    
+  <polynomial>d*e*d-d*e</polynomial>
+  
+    
+  <polynomial>d*c*d-c*d</polynomial>
+  
+    
+  <polynomial>d*b*d-b*d</polynomial>
+  
+    
+  <polynomial>d*a*d-a*d</polynomial>
+  
+    
+  <polynomial>c*e*c-c*e</polynomial>
+  
+    
+  <polynomial>c*d*c-c*d</polynomial>
+  
+    
+  <polynomial>c*b*c-b*c</polynomial>
+  
+    
+  <polynomial>c*a*c-a*c</polynomial>
+  
+    
+  <polynomial>b*e*b-b*e</polynomial>
+  
+    
+  <polynomial>b*d*b-b*d</polynomial>
+  
+    
+  <polynomial>b*c*b-b*c</polynomial>
+  
+    
+  <polynomial>b*a*b-a*b</polynomial>
+  
+    
+  <polynomial>a*e*a-a*e</polynomial>
+  
+    
+  <polynomial>a*d*a-a*d</polynomial>
+  
+    
+  <polynomial>a*c*a-a*c</polynomial>
+  
+    
+  <polynomial>a*b*a-a*b</polynomial>
+  
+    
+  <polynomial>e*d*b*e-d*b*e</polynomial>
+  
+    
+  <polynomial>e*d*a*e-d*a*e</polynomial>
+  
+    
+  <polynomial>e*b*d*e-b*d*e</polynomial>
+  
+    
+  <polynomial>e*b*a*e-b*a*e</polynomial>
+  
+    
+  <polynomial>e*a*d*e-a*d*e</polynomial>
+  
+    
+  <polynomial>e*a*b*e-a*b*e</polynomial>
+  
+    
+  <polynomial>d*c*b*d-c*b*d</polynomial>
+  
+    
+  <polynomial>d*c*a*d-c*a*d</polynomial>
+  
+    
+  <polynomial>d*b*c*d-b*c*d</polynomial>
+  
+    
+  <polynomial>d*b*a*d-b*a*d</polynomial>
+  
+    
+  <polynomial>d*a*c*d-a*c*d</polynomial>
+  
+    
+  <polynomial>d*a*b*d-a*b*d</polynomial>
+  
+    
+  <polynomial>c*e*d*c-c*e*d</polynomial>
+  
+    
+  <polynomial>c*d*e*c-c*d*e</polynomial>
+  
+    
+  <polynomial>c*b*a*c-b*a*c</polynomial>
+  
+    
+  <polynomial>c*a*b*c-a*b*c</polynomial>
+  
+    
+  <polynomial>b*e*d*b-b*e*d</polynomial>
+  
+    
+  <polynomial>b*e*c*b-b*e*c</polynomial>
+  
+    
+  <polynomial>b*d*e*b-b*d*e</polynomial>
+  
+    
+  <polynomial>b*d*c*b-b*d*c</polynomial>
+  
+    
+  <polynomial>b*c*e*b-b*c*e</polynomial>
+  
+    
+  <polynomial>b*c*d*b-b*c*d</polynomial>
+  
+    
+  <polynomial>a*e*d*a-a*e*d</polynomial>
+  
+    
+  <polynomial>a*e*c*a-a*e*c</polynomial>
+  
+    
+  <polynomial>a*e*b*a-a*e*b</polynomial>
+  
+    
+  <polynomial>a*d*e*a-a*d*e</polynomial>
+  
+    
+  <polynomial>a*d*c*a-a*d*c</polynomial>
+  
+    
+  <polynomial>a*d*b*a-a*d*b</polynomial>
+  
+    
+  <polynomial>a*c*e*a-a*c*e</polynomial>
+  
+    
+  <polynomial>a*c*d*a-a*c*d</polynomial>
+  
+    
+  <polynomial>a*c*b*a-a*c*b</polynomial>
+  
+    
+  <polynomial>a*b*e*a-a*b*e</polynomial>
+  
+    
+  <polynomial>a*b*d*a-a*b*d</polynomial>
+  
+    
+  <polynomial>a*b*c*a-a*b*c</polynomial>
+  
+    
+  <polynomial>e*d*b*a*e-d*b*a*e</polynomial>
+  
+    
+  <polynomial>e*d*a*b*e-d*a*b*e</polynomial>
+  
+    
+  <polynomial>e*b*d*a*e-b*d*a*e</polynomial>
+  
+    
+  <polynomial>e*b*a*d*e-b*a*d*e</polynomial>
+  
+    
+  <polynomial>e*a*d*b*e-a*d*b*e</polynomial>
+  
+    
+  <polynomial>e*a*b*d*e-a*b*d*e</polynomial>
+  
+    
+  <polynomial>d*c*b*a*d-c*b*a*d</polynomial>
+  
+    
+  <polynomial>d*c*a*b*d-c*a*b*d</polynomial>
+  
+    
+  <polynomial>d*b*c*a*d-b*c*a*d</polynomial>
+  
+    
+  <polynomial>d*b*a*c*d-b*a*c*d</polynomial>
+  
+    
+  <polynomial>d*a*c*b*d-a*c*b*d</polynomial>
+  
+    
+  <polynomial>d*a*b*c*d-a*b*c*d</polynomial>
+  
+    
+  <polynomial>b*e*d*c*b-b*e*d*c</polynomial>
+  
+    
+  <polynomial>b*e*c*d*b-b*e*c*d</polynomial>
+  
+    
+  <polynomial>b*d*e*c*b-b*d*e*c</polynomial>
+  
+    
+  <polynomial>b*d*c*e*b-b*d*c*e</polynomial>
+  
+    
+  <polynomial>b*c*e*d*b-b*c*e*d</polynomial>
+  
+    
+  <polynomial>b*c*d*e*b-b*c*d*e</polynomial>
+  
+    
+  <polynomial>a*e*d*c*a-a*e*d*c</polynomial>
+  
+    
+  <polynomial>a*e*d*b*a-a*e*d*b</polynomial>
+  
+    
+  <polynomial>a*e*c*d*a-a*e*c*d</polynomial>
+  
+    
+  <polynomial>a*e*c*b*a-a*e*c*b</polynomial>
+  
+    
+  <polynomial>a*e*b*d*a-a*e*b*d</polynomial>
+  
+    
+  <polynomial>a*e*b*c*a-a*e*b*c</polynomial>
+  
+    
+  <polynomial>a*d*e*c*a-a*d*e*c</polynomial>
+  
+    
+  <polynomial>a*d*e*b*a-a*d*e*b</polynomial>
+  
+    
+  <polynomial>a*d*c*e*a-a*d*c*e</polynomial>
+  
+    
+  <polynomial>a*d*c*b*a-a*d*c*b</polynomial>
+  
+    
+  <polynomial>a*d*b*e*a-a*d*b*e</polynomial>
+  
+    
+  <polynomial>a*d*b*c*a-a*d*b*c</polynomial>
+  
+    
+  <polynomial>a*c*e*d*a-a*c*e*d</polynomial>
+  
+    
+  <polynomial>a*c*e*b*a-a*c*e*b</polynomial>
+  
+    
+  <polynomial>a*c*d*e*a-a*c*d*e</polynomial>
+  
+    
+  <polynomial>a*c*d*b*a-a*c*d*b</polynomial>
+  
+    
+  <polynomial>a*c*b*e*a-a*c*b*e</polynomial>
+  
+    
+  <polynomial>a*c*b*d*a-a*c*b*d</polynomial>
+  
+    
+  <polynomial>a*b*e*d*a-a*b*e*d</polynomial>
+  
+    
+  <polynomial>a*b*e*c*a-a*b*e*c</polynomial>
+  
+    
+  <polynomial>a*b*d*e*a-a*b*d*e</polynomial>
+  
+    
+  <polynomial>a*b*d*c*a-a*b*d*c</polynomial>
+  
+    
+  <polynomial>a*b*c*e*a-a*b*c*e</polynomial>
+  
+    
+  <polynomial>a*b*c*d*a-a*b*c*d</polynomial>
+  
+    
+  <polynomial>e*b*d*a*b*e-b*d*a*b*e</polynomial>
+  
+    
+  <polynomial>e*b*a*d*b*e-b*a*d*b*e</polynomial>
+  
+    
+  <polynomial>d*b*c*a*b*d-b*c*a*b*d</polynomial>
+  
+    
+  <polynomial>d*b*a*c*b*d-b*a*c*b*d</polynomial>
+  
+    
+  <polynomial>b*e*d*c*e*b-b*e*d*c*e</polynomial>
+  
+    
+  <polynomial>b*e*c*d*e*b-b*e*c*d*e</polynomial>
+  
+    
+  <polynomial>b*d*e*c*d*b-b*d*e*c*d</polynomial>
+  
+    
+  <polynomial>b*d*c*e*d*b-b*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*a-a*e*d*c*e</polynomial>
+  
+    
+  <polynomial>a*e*d*c*b*a-a*e*d*c*b</polynomial>
+  
+    
+  <polynomial>a*e*d*b*c*a-a*e*d*b*c</polynomial>
+  
+    
+  <polynomial>a*e*c*d*e*a-a*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*e*c*d*b*a-a*e*c*d*b</polynomial>
+  
+    
+  <polynomial>a*e*c*b*e*a-a*e*c*b*e</polynomial>
+  
+    
+  <polynomial>a*e*c*b*d*a-a*e*c*b*d</polynomial>
+  
+    
+  <polynomial>a*e*b*d*c*a-a*e*b*d*c</polynomial>
+  
+    
+  <polynomial>a*e*b*c*e*a-a*e*b*c*e</polynomial>
+  
+    
+  <polynomial>a*e*b*c*d*a-a*e*b*c*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*a-a*d*e*c*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*a-a*d*e*c*b</polynomial>
+  
+    
+  <polynomial>a*d*e*b*d*a-a*d*e*b*d</polynomial>
+  
+    
+  <polynomial>a*d*e*b*c*a-a*d*e*b*c</polynomial>
+  
+    
+  <polynomial>a*d*c*e*d*a-a*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*d*c*e*b*a-a*d*c*e*b</polynomial>
+  
+    
+  <polynomial>a*d*c*b*e*a-a*d*c*b*e</polynomial>
+  
+    
+  <polynomial>a*d*b*e*d*a-a*d*b*e*d</polynomial>
+  
+    
+  <polynomial>a*d*b*e*c*a-a*d*b*e*c</polynomial>
+  
+    
+  <polynomial>a*d*b*c*e*a-a*d*b*c*e</polynomial>
+  
+    
+  <polynomial>a*c*e*d*b*a-a*c*e*d*b</polynomial>
+  
+    
+  <polynomial>a*c*e*b*d*a-a*c*e*b*d</polynomial>
+  
+    
+  <polynomial>a*c*e*b*c*a-a*c*e*b*c</polynomial>
+  
+    
+  <polynomial>a*c*d*e*b*a-a*c*d*e*b</polynomial>
+  
+    
+  <polynomial>a*c*d*b*e*a-a*c*d*b*e</polynomial>
+  
+    
+  <polynomial>a*c*d*b*c*a-a*c*d*b*c</polynomial>
+  
+    
+  <polynomial>a*c*b*e*d*a-a*c*b*e*d</polynomial>
+  
+    
+  <polynomial>a*c*b*e*c*a-a*c*b*e*c</polynomial>
+  
+    
+  <polynomial>a*c*b*d*e*a-a*c*b*d*e</polynomial>
+  
+    
+  <polynomial>a*c*b*d*c*a-a*c*b*d*c</polynomial>
+  
+    
+  <polynomial>a*b*e*d*c*a-a*b*e*d*c</polynomial>
+  
+    
+  <polynomial>a*b*e*c*d*a-a*b*e*c*d</polynomial>
+  
+    
+  <polynomial>a*b*d*e*c*a-a*b*d*e*c</polynomial>
+  
+    
+  <polynomial>a*b*d*c*e*a-a*b*d*c*e</polynomial>
+  
+    
+  <polynomial>a*b*c*e*d*a-a*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*b*c*d*e*a-a*b*c*d*e</polynomial>
+  
+    
+  <polynomial>b*e*d*c*e*d*b-b*e*d*c*e*d</polynomial>
+  
+    
+  <polynomial>b*d*e*c*d*e*b-b*d*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*d*a-a*e*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*b*a-a*e*d*c*e*b</polynomial>
+  
+    
+  <polynomial>a*e*d*c*b*e*a-a*e*d*c*b*e</polynomial>
+  
+    
+  <polynomial>a*e*d*b*c*e*a-a*e*d*b*c*e</polynomial>
+  
+    
+  <polynomial>a*e*c*d*e*b*a-a*e*c*d*e*b</polynomial>
+  
+    
+  <polynomial>a*e*c*d*b*e*a-a*e*c*d*b*e</polynomial>
+  
+    
+  <polynomial>a*e*c*d*b*c*a-a*e*c*d*b*c</polynomial>
+  
+    
+  <polynomial>a*e*c*b*e*d*a-a*e*c*b*e*d</polynomial>
+  
+    
+  <polynomial>a*e*c*b*e*c*a-a*e*c*b*e*c</polynomial>
+  
+    
+  <polynomial>a*e*c*b*d*e*a-a*e*c*b*d*e</polynomial>
+  
+    
+  <polynomial>a*e*c*b*d*c*a-a*e*c*b*d*c</polynomial>
+  
+    
+  <polynomial>a*e*b*d*c*e*a-a*e*b*d*c*e</polynomial>
+  
+    
+  <polynomial>a*e*b*c*e*d*a-a*e*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*e*b*c*d*e*a-a*e*b*c*d*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*e*a-a*d*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*b*a-a*d*e*c*d*b</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*e*a-a*d*e*c*b*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*d*a-a*d*e*c*b*d</polynomial>
+  
+    
+  <polynomial>a*d*e*b*d*c*a-a*d*e*b*d*c</polynomial>
+  
+    
+  <polynomial>a*d*e*b*c*e*a-a*d*e*b*c*e</polynomial>
+  
+    
+  <polynomial>a*d*e*b*c*d*a-a*d*e*b*c*d</polynomial>
+  
+    
+  <polynomial>a*d*c*e*d*b*a-a*d*c*e*d*b</polynomial>
+  
+    
+  <polynomial>a*d*c*e*b*d*a-a*d*c*e*b*d</polynomial>
+  
+    
+  <polynomial>a*d*c*e*b*c*a-a*d*c*e*b*c</polynomial>
+  
+    
+  <polynomial>a*d*c*b*e*d*a-a*d*c*b*e*d</polynomial>
+  
+    
+  <polynomial>a*d*c*b*e*c*a-a*d*c*b*e*c</polynomial>
+  
+    
+  <polynomial>a*d*b*e*d*c*a-a*d*b*e*d*c</polynomial>
+  
+    
+  <polynomial>a*d*b*e*c*d*a-a*d*b*e*c*d</polynomial>
+  
+    
+  <polynomial>a*d*b*c*e*d*a-a*d*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*c*e*d*b*c*a-a*c*e*d*b*c</polynomial>
+  
+    
+  <polynomial>a*c*e*b*d*c*a-a*c*e*b*d*c</polynomial>
+  
+    
+  <polynomial>a*c*e*b*c*e*a-a*c*e*b*c*e</polynomial>
+  
+    
+  <polynomial>a*c*e*b*c*d*a-a*c*e*b*c*d</polynomial>
+  
+    
+  <polynomial>a*c*d*e*b*d*a-a*c*d*e*b*d</polynomial>
+  
+    
+  <polynomial>a*c*d*e*b*c*a-a*c*d*e*b*c</polynomial>
+  
+    
+  <polynomial>a*c*d*b*e*d*a-a*c*d*b*e*d</polynomial>
+  
+    
+  <polynomial>a*c*d*b*e*c*a-a*c*d*b*e*c</polynomial>
+  
+    
+  <polynomial>a*c*d*b*c*e*a-a*c*d*b*c*e</polynomial>
+  
+    
+  <polynomial>a*c*b*e*d*c*a-a*c*b*e*d*c</polynomial>
+  
+    
+  <polynomial>a*c*b*e*c*d*a-a*c*b*e*c*d</polynomial>
+  
+    
+  <polynomial>a*c*b*d*e*c*a-a*c*b*d*e*c</polynomial>
+  
+    
+  <polynomial>a*c*b*d*c*e*a-a*c*b*d*c*e</polynomial>
+  
+    
+  <polynomial>a*b*e*d*c*e*a-a*b*e*d*c*e</polynomial>
+  
+    
+  <polynomial>a*b*e*c*d*e*a-a*b*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*b*d*e*c*d*a-a*b*d*e*c*d</polynomial>
+  
+    
+  <polynomial>a*b*d*c*e*d*a-a*b*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*d*b*a-a*e*d*c*e*d*b</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*b*d*a-a*e*d*c*e*b*d</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*b*c*a-a*e*d*c*e*b*c</polynomial>
+  
+    
+  <polynomial>a*e*d*c*b*e*d*a-a*e*d*c*b*e*d</polynomial>
+  
+    
+  <polynomial>a*e*d*c*b*e*c*a-a*e*d*c*b*e*c</polynomial>
+  
+    
+  <polynomial>a*e*d*b*c*e*d*a-a*e*d*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*e*c*d*e*b*d*a-a*e*c*d*e*b*d</polynomial>
+  
+    
+  <polynomial>a*e*c*d*e*b*c*a-a*e*c*d*e*b*c</polynomial>
+  
+    
+  <polynomial>a*e*c*d*b*e*d*a-a*e*c*d*b*e*d</polynomial>
+  
+    
+  <polynomial>a*e*c*d*b*e*c*a-a*e*c*d*b*e*c</polynomial>
+  
+    
+  <polynomial>a*e*c*d*b*c*e*a-a*e*c*d*b*c*e</polynomial>
+  
+    
+  <polynomial>a*e*c*b*e*d*c*a-a*e*c*b*e*d*c</polynomial>
+  
+    
+  <polynomial>a*e*c*b*e*c*d*a-a*e*c*b*e*c*d</polynomial>
+  
+    
+  <polynomial>a*e*c*b*d*e*c*a-a*e*c*b*d*e*c</polynomial>
+  
+    
+  <polynomial>a*e*c*b*d*c*e*a-a*e*c*b*d*c*e</polynomial>
+  
+    
+  <polynomial>a*e*b*d*c*e*d*a-a*e*b*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*e*b*a-a*d*e*c*d*e*b</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*b*e*a-a*d*e*c*d*b*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*b*c*a-a*d*e*c*d*b*c</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*e*d*a-a*d*e*c*b*e*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*e*c*a-a*d*e*c*b*e*c</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*d*e*a-a*d*e*c*b*d*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*d*c*a-a*d*e*c*b*d*c</polynomial>
+  
+    
+  <polynomial>a*d*e*b*d*c*e*a-a*d*e*b*d*c*e</polynomial>
+  
+    
+  <polynomial>a*d*e*b*c*e*d*a-a*d*e*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*d*e*b*c*d*e*a-a*d*e*b*c*d*e</polynomial>
+  
+    
+  <polynomial>a*d*c*e*d*b*c*a-a*d*c*e*d*b*c</polynomial>
+  
+    
+  <polynomial>a*d*c*e*b*d*c*a-a*d*c*e*b*d*c</polynomial>
+  
+    
+  <polynomial>a*d*c*e*b*c*e*a-a*d*c*e*b*c*e</polynomial>
+  
+    
+  <polynomial>a*d*c*e*b*c*d*a-a*d*c*e*b*c*d</polynomial>
+  
+    
+  <polynomial>a*d*c*b*e*d*c*a-a*d*c*b*e*d*c</polynomial>
+  
+    
+  <polynomial>a*d*c*b*e*c*d*a-a*d*c*b*e*c*d</polynomial>
+  
+    
+  <polynomial>a*d*b*e*d*c*e*a-a*d*b*e*d*c*e</polynomial>
+  
+    
+  <polynomial>a*d*b*e*c*d*e*a-a*d*b*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*c*e*d*b*c*e*a-a*c*e*d*b*c*e</polynomial>
+  
+    
+  <polynomial>a*c*e*b*d*c*e*a-a*c*e*b*d*c*e</polynomial>
+  
+    
+  <polynomial>a*c*e*b*c*e*d*a-a*c*e*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*c*e*b*c*d*e*a-a*c*e*b*c*d*e</polynomial>
+  
+    
+  <polynomial>a*c*d*e*b*d*c*a-a*c*d*e*b*d*c</polynomial>
+  
+    
+  <polynomial>a*c*d*e*b*c*e*a-a*c*d*e*b*c*e</polynomial>
+  
+    
+  <polynomial>a*c*d*e*b*c*d*a-a*c*d*e*b*c*d</polynomial>
+  
+    
+  <polynomial>a*c*d*b*e*d*c*a-a*c*d*b*e*d*c</polynomial>
+  
+    
+  <polynomial>a*c*d*b*e*c*d*a-a*c*d*b*e*c*d</polynomial>
+  
+    
+  <polynomial>a*c*d*b*c*e*d*a-a*c*d*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*c*b*e*d*c*e*a-a*c*b*e*d*c*e</polynomial>
+  
+    
+  <polynomial>a*c*b*e*c*d*e*a-a*c*b*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*c*b*d*e*c*d*a-a*c*b*d*e*c*d</polynomial>
+  
+    
+  <polynomial>a*c*b*d*c*e*d*a-a*c*b*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*b*e*d*c*e*d*a-a*b*e*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*b*d*e*c*d*e*a-a*b*d*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*d*b*c*a-a*e*d*c*e*d*b*c</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*b*d*c*a-a*e*d*c*e*b*d*c</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*b*c*e*a-a*e*d*c*e*b*c*e</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*b*c*d*a-a*e*d*c*e*b*c*d</polynomial>
+  
+    
+  <polynomial>a*e*d*c*b*e*d*c*a-a*e*d*c*b*e*d*c</polynomial>
+  
+    
+  <polynomial>a*e*d*c*b*e*c*d*a-a*e*d*c*b*e*c*d</polynomial>
+  
+    
+  <polynomial>a*e*c*d*e*b*d*c*a-a*e*c*d*e*b*d*c</polynomial>
+  
+    
+  <polynomial>a*e*c*d*e*b*c*e*a-a*e*c*d*e*b*c*e</polynomial>
+  
+    
+  <polynomial>a*e*c*d*e*b*c*d*a-a*e*c*d*e*b*c*d</polynomial>
+  
+    
+  <polynomial>a*e*c*d*b*e*d*c*a-a*e*c*d*b*e*d*c</polynomial>
+  
+    
+  <polynomial>a*e*c*d*b*e*c*d*a-a*e*c*d*b*e*c*d</polynomial>
+  
+    
+  <polynomial>a*e*c*d*b*c*e*d*a-a*e*c*d*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*e*c*b*e*d*c*e*a-a*e*c*b*e*d*c*e</polynomial>
+  
+    
+  <polynomial>a*e*c*b*e*c*d*e*a-a*e*c*b*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*e*c*b*d*e*c*d*a-a*e*c*b*d*e*c*d</polynomial>
+  
+    
+  <polynomial>a*e*c*b*d*c*e*d*a-a*e*c*b*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*e*b*d*a-a*d*e*c*d*e*b*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*e*b*c*a-a*d*e*c*d*e*b*c</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*b*e*d*a-a*d*e*c*d*b*e*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*b*e*c*a-a*d*e*c*d*b*e*c</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*b*c*e*a-a*d*e*c*d*b*c*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*e*d*c*a-a*d*e*c*b*e*d*c</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*e*c*d*a-a*d*e*c*b*e*c*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*d*e*c*a-a*d*e*c*b*d*e*c</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*d*c*e*a-a*d*e*c*b*d*c*e</polynomial>
+  
+    
+  <polynomial>a*d*e*b*d*c*e*d*a-a*d*e*b*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*d*c*e*d*b*c*e*a-a*d*c*e*d*b*c*e</polynomial>
+  
+    
+  <polynomial>a*d*c*e*b*d*c*e*a-a*d*c*e*b*d*c*e</polynomial>
+  
+    
+  <polynomial>a*d*c*e*b*c*e*d*a-a*d*c*e*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*d*c*e*b*c*d*e*a-a*d*c*e*b*c*d*e</polynomial>
+  
+    
+  <polynomial>a*d*c*b*e*d*c*e*a-a*d*c*b*e*d*c*e</polynomial>
+  
+    
+  <polynomial>a*d*c*b*e*c*d*e*a-a*d*c*b*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*d*b*e*d*c*e*d*a-a*d*b*e*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*c*e*d*b*c*e*d*a-a*c*e*d*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*c*e*b*d*c*e*d*a-a*c*e*b*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*c*d*e*b*d*c*e*a-a*c*d*e*b*d*c*e</polynomial>
+  
+    
+  <polynomial>a*c*d*e*b*c*e*d*a-a*c*d*e*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*c*d*e*b*c*d*e*a-a*c*d*e*b*c*d*e</polynomial>
+  
+    
+  <polynomial>a*c*d*b*e*d*c*e*a-a*c*d*b*e*d*c*e</polynomial>
+  
+    
+  <polynomial>a*c*d*b*e*c*d*e*a-a*c*d*b*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*c*b*e*d*c*e*d*a-a*c*b*e*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*c*b*d*e*c*d*e*a-a*c*b*d*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*d*b*c*e*a-a*e*d*c*e*d*b*c*e</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*b*d*c*e*a-a*e*d*c*e*b*d*c*e</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*b*c*e*d*a-a*e*d*c*e*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*b*c*d*e*a-a*e*d*c*e*b*c*d*e</polynomial>
+  
+    
+  <polynomial>a*e*d*c*b*e*d*c*e*a-a*e*d*c*b*e*d*c*e</polynomial>
+  
+    
+  <polynomial>a*e*d*c*b*e*c*d*e*a-a*e*d*c*b*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*e*c*d*e*b*d*c*e*a-a*e*c*d*e*b*d*c*e</polynomial>
+  
+    
+  <polynomial>a*e*c*d*e*b*c*e*d*a-a*e*c*d*e*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*e*c*d*e*b*c*d*e*a-a*e*c*d*e*b*c*d*e</polynomial>
+  
+    
+  <polynomial>a*e*c*d*b*e*d*c*e*a-a*e*c*d*b*e*d*c*e</polynomial>
+  
+    
+  <polynomial>a*e*c*d*b*e*c*d*e*a-a*e*c*d*b*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*e*c*b*e*d*c*e*d*a-a*e*c*b*e*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*e*c*b*d*e*c*d*e*a-a*e*c*b*d*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*e*b*d*c*a-a*d*e*c*d*e*b*d*c</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*e*b*c*e*a-a*d*e*c*d*e*b*c*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*e*b*c*d*a-a*d*e*c*d*e*b*c*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*b*e*d*c*a-a*d*e*c*d*b*e*d*c</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*b*e*c*d*a-a*d*e*c*d*b*e*c*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*b*c*e*d*a-a*d*e*c*d*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*e*d*c*e*a-a*d*e*c*b*e*d*c*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*e*c*d*e*a-a*d*e*c*b*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*d*e*c*d*a-a*d*e*c*b*d*e*c*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*d*c*e*d*a-a*d*e*c*b*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*d*c*e*d*b*c*e*d*a-a*d*c*e*d*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*d*c*e*b*d*c*e*d*a-a*d*c*e*b*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*d*c*b*e*d*c*e*d*a-a*d*c*b*e*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*c*d*e*b*d*c*e*d*a-a*c*d*e*b*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*c*d*b*e*d*c*e*d*a-a*c*d*b*e*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*d*b*c*e*d*a-a*e*d*c*e*d*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*e*d*c*e*b*d*c*e*d*a-a*e*d*c*e*b*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*e*d*c*b*e*d*c*e*d*a-a*e*d*c*b*e*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*e*c*d*e*b*d*c*e*d*a-a*e*c*d*e*b*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*e*c*d*b*e*d*c*e*d*a-a*e*c*d*b*e*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*e*b*d*c*e*a-a*d*e*c*d*e*b*d*c*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*e*b*c*e*d*a-a*d*e*c*d*e*b*c*e*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*e*b*c*d*e*a-a*d*e*c*d*e*b*c*d*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*b*e*d*c*e*a-a*d*e*c*d*b*e*d*c*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*b*e*c*d*e*a-a*d*e*c*d*b*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*e*d*c*e*d*a-a*d*e*c*b*e*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*b*d*e*c*d*e*a-a*d*e*c*b*d*e*c*d*e</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*e*b*d*c*e*d*a-a*d*e*c*d*e*b*d*c*e*d</polynomial>
+  
+    
+  <polynomial>a*d*e*c*d*b*e*d*c*e*d*a-a*d*e*c*d*b*e*d*c*e*d</polynomial>
+  
+  
+</basis>

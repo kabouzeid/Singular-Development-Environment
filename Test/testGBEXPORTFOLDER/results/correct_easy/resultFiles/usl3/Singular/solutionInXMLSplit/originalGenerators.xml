@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<originalGenerators>
+  
+    
+  <polynomial>x2*x1-x1*x2-x3</polynomial>
+  
+    
+  <polynomial>x3*x1-x1*x3</polynomial>
+  
+    
+  <polynomial>y1*x1-x1*y1+H1</polynomial>
+  
+    
+  <polynomial>y2*x1-x1*y2</polynomial>
+  
+    
+  <polynomial>y3*x1-x1*y3+y2</polynomial>
+  
+    
+  <polynomial>H1*x1-x1*H1-2*x1</polynomial>
+  
+    
+  <polynomial>H2*x1-x1*H2+x1</polynomial>
+  
+    
+  <polynomial>x3*x2-x2*x3</polynomial>
+  
+    
+  <polynomial>y1*x2-x2*y1</polynomial>
+  
+    
+  <polynomial>y2*x2-x2*y2+H2</polynomial>
+  
+    
+  <polynomial>y3*x2-x2*y3-y1</polynomial>
+  
+    
+  <polynomial>H1*x2-x2*H1+x2</polynomial>
+  
+    
+  <polynomial>H2*x2-x2*H2-2*x2</polynomial>
+  
+    
+  <polynomial>y1*x3-x3*y1+x2</polynomial>
+  
+    
+  <polynomial>y2*x3-x3*y2-x1</polynomial>
+  
+    
+  <polynomial>y3*x3-x3*y3+H2+H1</polynomial>
+  
+    
+  <polynomial>H1*x3-x3*H1-x3</polynomial>
+  
+    
+  <polynomial>H2*x3-x3*H2-x3</polynomial>
+  
+    
+  <polynomial>y2*y1-y1*y2+y3</polynomial>
+  
+    
+  <polynomial>y3*y1-y1*y3</polynomial>
+  
+    
+  <polynomial>H1*y1-y1*H1+2*y1</polynomial>
+  
+    
+  <polynomial>H2*y1-y1*H2-y1</polynomial>
+  
+    
+  <polynomial>y3*y2-y2*y3</polynomial>
+  
+    
+  <polynomial>H1*y2-y2*H1-y2</polynomial>
+  
+    
+  <polynomial>H2*y2-y2*H2+2*y2</polynomial>
+  
+    
+  <polynomial>H1*y3-y3*H1+y3</polynomial>
+  
+    
+  <polynomial>H2*y3-y3*H2+y3</polynomial>
+  
+    
+  <polynomial>H2*H1-H1*H2</polynomial>
+  
+  
+</originalGenerators>

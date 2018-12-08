@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<basis>
+  
+    
+  <polynomial>f*e-e*f+h</polynomial>
+  
+    
+  <polynomial>h*e-e*h-2*e</polynomial>
+  
+    
+  <polynomial>h*f-f*h+2*f</polynomial>
+  
+  
+</basis>

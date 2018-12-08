@@ -1,0 +1,16 @@
+LIB "freegb.lib";
+ring r = 0,(s,x),dp;
+int upToDeg = 4;
+def R = makeLetterplaceRing(upToDeg);
+setring(R);
+ideal Id = s*x-x*s-s;
+option(prot);
+option(redTail);
+option(redSB);
+ideal IdSTD = std(Id);
+print("=====Solution Begin=====");
+print (IdSTD, "%s");
+print (varstr(r), "%s");
+print (upToDeg, "%s");
+print (Id, "%s");
+print("=====Solution End=====");$;
