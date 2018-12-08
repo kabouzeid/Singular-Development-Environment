@@ -1,7 +1,7 @@
 SOURCES = sources
 TESTGB = Test/testGBEXPORTFOLDER
 NPROC = $(shell sysctl -n hw.ncpu) # $(shell nproc) on linux
-CONFIGURE_ARGS = AM_CXXFLAGS="-std=c++11" CPPFLAGS="-I/usr/local/include"#--with-gmp=/usr/local/opt/gmp --with-ntl=/usr/local/opt/ntl --with-flint=/usr/local/opt/flint
+CONFIGURE_ARGS = AM_CXXFLAGS="-std=c++11" #--with-gmp=/usr/local/opt/gmp --with-ntl=/usr/local/opt/ntl --with-flint=/usr/local/opt/flint
 
 nothing:
 
