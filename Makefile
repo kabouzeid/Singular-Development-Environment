@@ -18,21 +18,33 @@ debug:
 	cd $(SOURCES) && ./configure $(CONFIGURE_ARGS) --enable-debug --disable-optimizationflags --disable-shared --enable-static --without-pic --enable-p-procs-static --disable-p-procs-dynamic
 	cd $(SOURCES) && make -j$(NPROC)
 
+timeGB:
+	cd $(TESTGB) && python runTasks.py -ftaskInfo.xml
+	cd $(TESTGB) && python compareResults.py -f results/correct -f2 results -c Singular
+
 testGB:
 	cd $(TESTGB) && python runTasks.py -j$(NPROC) -ftaskInfo.xml
 	cd $(TESTGB) && python compareResults.py -f results/correct -f2 results -c Singular
+
+timeGB_medium:
+	cd $(TESTGB) && python runTasks.py -ftaskInfo_medium.xml
+	cd $(TESTGB) && python compareResults.py -f results/correct_medium -f2 results -c Singular
 
 testGB_medium:
 	cd $(TESTGB) && python runTasks.py -j$(NPROC) -ftaskInfo_medium.xml
 	cd $(TESTGB) && python compareResults.py -f results/correct_medium -f2 results -c Singular
 
-timeGB_medium:
-	cd $(TESTGB) && python runTasks.py -ftaskInfo_medium.xml
-	cd $(TESTGB) && python compareResults.py -f results/time_medium -f2 results -c Singular
+timeGB_easy:
+	cd $(TESTGB) && python runTasks.py -ftaskInfo_easy.xml
+	cd $(TESTGB) && python compareResults.py -f results/correct_easy -f2 results -c Singular
 
 testGB_easy:
 	cd $(TESTGB) && python runTasks.py -j$(NPROC) -ftaskInfo_easy.xml
 	cd $(TESTGB) && python compareResults.py -f results/correct_easy -f2 results -c Singular
+
+timeGB_very_easy:
+	cd $(TESTGB) && python runTasks.py -ftaskInfo_very_easy.xml
+	cd $(TESTGB) && python compareResults.py -f results/correct_very_easy -f2 results -c Singular
 
 testGB_very_easy:
 	cd $(TESTGB) && python runTasks.py -j$(NPROC) -ftaskInfo_very_easy.xml
